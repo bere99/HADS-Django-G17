@@ -2,6 +2,7 @@
 Definition of views.
 """
 
+
 from django.shortcuts import render,get_object_or_404
 from django.http import HttpRequest
 from django.template import RequestContext
